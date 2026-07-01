@@ -1,0 +1,16 @@
+# Log
+*.log
+
+# Temporary
+temp/
+.tmp/
+
+# Sistem
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
